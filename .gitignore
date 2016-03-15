@@ -8,6 +8,7 @@ import_common.cmd
 import_modules.trusty.sh
 import_modules.jessie.sh
 import_modules.win.cmd
+import_modules.win.sh
 import_vagrantfiles.cmd
 import_vagrantfiles.sh
 mini_path.cmd
